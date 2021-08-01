@@ -1,0 +1,3 @@
+[submodule "epic-react/react-fundamentals"]
+	path = epic-react/react-fundamentals
+	url = git@github.com:kentcdodds/react-fundamentals.git
